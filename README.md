@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
