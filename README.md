@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0383-ransom-note) |
 ## Counting
 |  |
