@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1313-decompress-run-length-encoded-list](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
