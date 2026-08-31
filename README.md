@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
