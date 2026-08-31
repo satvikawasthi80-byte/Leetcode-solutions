@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [2923-find-champion-i](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2923-find-champion-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+## Matrix
+|  |
+| ------- |
+| [2923-find-champion-i](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2923-find-champion-i) |
 <!---LeetCode Topics End-->
