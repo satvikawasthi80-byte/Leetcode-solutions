@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Greedy
+|  |
+| ------- |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 <!---LeetCode Topics End-->
