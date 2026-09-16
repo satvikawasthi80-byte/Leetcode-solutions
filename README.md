@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [2211-count-collisions-on-a-road](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Counting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [2211-count-collisions-on-a-road](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Matrix
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
