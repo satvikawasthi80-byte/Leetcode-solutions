@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
