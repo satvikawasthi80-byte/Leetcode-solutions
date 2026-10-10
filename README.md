@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2258-escape-the-spreading-fire](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2923-find-champion-i](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2923-find-champion-i) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/3588-find-maximum-area-of-a-triangle) |
 ## Binary Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2258-escape-the-spreading-fire](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2258-escape-the-spreading-fire) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2258-escape-the-spreading-fire](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2923-find-champion-i](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2923-find-champion-i) |
 ## Depth-First Search
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [2258-escape-the-spreading-fire](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2258-escape-the-spreading-fire) |
 ## Union-Find
 |  |
 | ------- |
