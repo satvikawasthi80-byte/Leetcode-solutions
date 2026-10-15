@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2258-escape-the-spreading-fire](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2258-escape-the-spreading-fire) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2923-find-champion-i](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2923-find-champion-i) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/3588-find-maximum-area-of-a-triangle) |
 ## Binary Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## String Matching
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 <!---LeetCode Topics End-->
