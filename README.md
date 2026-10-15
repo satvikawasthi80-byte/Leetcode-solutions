@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1313-decompress-run-length-encoded-list](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0055-jump-game) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/3588-find-maximum-area-of-a-triangle) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0055-jump-game) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
