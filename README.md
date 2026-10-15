@@ -49,16 +49,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0451-sort-characters-by-frequency](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/3588-find-maximum-area-of-a-triangle) |
 ## String
@@ -67,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2211-count-collisions-on-a-road](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Sliding Window
 |  |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
