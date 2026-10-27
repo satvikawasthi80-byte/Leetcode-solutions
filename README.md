@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0739-daily-temperatures](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1313-decompress-run-length-encoded-list](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [2211-count-collisions-on-a-road](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## String Matching
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Bucket Sort
 |  |
