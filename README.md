@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [2211-count-collisions-on-a-road](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Counting
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/3588-find-maximum-area-of-a-triangle) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [2211-count-collisions-on-a-road](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
