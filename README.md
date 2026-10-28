@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0739-daily-temperatures](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [2258-escape-the-spreading-fire](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2923-find-champion-i](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2923-find-champion-i) |
 ## Depth-First Search
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0678-valid-parenthesis-string](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
