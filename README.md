@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Sorting
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 ## Simulation
 |  |
