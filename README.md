@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2258-escape-the-spreading-fire](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2923-find-champion-i](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2923-find-champion-i) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/3588-find-maximum-area-of-a-triangle) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/satvikawasthi80-byte/Leetcode-solutions/tree/master/3588-find-maximum-area-of-a-triangle) |
 ## Geometry
 |  |
